@@ -1,4 +1,4 @@
-import { ArrayResource } from "pixi.js/dist/browser/pixi";
+// import { ArrayResource } from "pixi.js/dist/browser/pixi";
 
 export default function(blur = 9, bg = null) {
   let canvas = this.extract("canvas");

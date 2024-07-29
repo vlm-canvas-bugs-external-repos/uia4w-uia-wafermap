@@ -1,4 +1,4 @@
-import * as PIXI from "pixi.js/dist/browser/pixi";
+import * as PIXI from 'pixi.js';
 
 export default function() {
   // pixi

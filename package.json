@@ -30,13 +30,12 @@
         "pixi.js": "^6.2.0"
     },
     "devDependencies": {
+        "@rollup/plugin-node-resolve": "^11.1.0",
         "eslint": "^6.8.0",
         "jsdom": "11",
         "package-preamble": "0.1",
         "rollup": "1.29",
         "rollup-plugin-node-builtins": "^2.1.2",
-        "rollup-plugin-terser": "5",
-        "@rollup/plugin-node-resolve": "^11.1.0",
         "tape": "4",
         "uglify-js": "3.2"
     }
